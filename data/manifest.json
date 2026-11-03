@@ -1,0 +1,31 @@
+{
+    "dataset": "sklearn.datasets.load_digits",
+    "sklearn_version": "1.6.1",
+    "total_samples": 1797,
+    "image_shape": [
+        8,
+        8
+    ],
+    "number_of_features": 64,
+    "classes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "normalization": "X = X / 16.0",
+    "split_method": "stratified train_test_split",
+    "split_seed": 0,
+    "split_sizes": {
+        "train": 1077,
+        "val": 360,
+        "test": 360
+    },
+    "split_sha256": "8f66b802598bba01d8f64f98fddfb273bb32e82138e3b241519c4e3756f88e22"
+}
