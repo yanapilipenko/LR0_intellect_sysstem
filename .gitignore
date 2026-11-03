@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+runs/
+mlartifacts/
+
+mlflow.db
+optuna.db
+*.db
+
+.ipynb_checkpoints/
