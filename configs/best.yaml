@@ -1,0 +1,15 @@
+experiment: lr0_best
+split_seed: 0
+seed: 0
+model:
+  n_layers: 1
+  hidden: 277
+  dropout: 0.4690930134716548
+train:
+  lr: 0.01837874631185062
+  weight_decay: 3.8576395219325716e-05
+  batch_size: 64
+  epochs: 30
+runtime:
+  device: cpu
+  num_threads: 1

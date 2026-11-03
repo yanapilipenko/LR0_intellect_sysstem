@@ -11,3 +11,4 @@ optuna.db
 *.db
 
 .ipynb_checkpoints/
+mlruns/
